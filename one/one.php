@@ -1,15 +1,9 @@
 <?
-/*$dbHost = '211.233.14.88';
+$dbHost = '211.233.14.88';
 $dbUser = 'ntmunse';
 $dbPass = 'ntmunse7042217';
 $dbName = 'ntmUnse';
-$tbname = 'member';*/
-
-$dbHost = 'dev-lp-mkt-user.cluster-cz8n4fvrfaxs.ap-northeast-2.rds.amazonaws.com';
-$dbUser = 'user_admin';
-$dbPass = 'mkt_user123!';
-$dbName = 'unseutf';
-$tbname = 'F007';
+$tbname = 'member';
 
 
 /// db 관련 함수 -- 시작
