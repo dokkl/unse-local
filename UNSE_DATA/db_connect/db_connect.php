@@ -1,7 +1,7 @@
 <?
-$dbHost = 'dev-lp-mkt-user.cluster-cz8n4fvrfaxs.ap-northeast-2.rds.amazonaws.com';
-$dbUser = 'user_admin';
-$dbPass = 'mkt_user123!';
+$dbHost = '';
+$dbUser = '';
+$dbPass = '';
 $dbName = 'unseutf';
 
 
